@@ -1,3 +1,3 @@
 # NodeTx-v2
-![alt text] (https://raw.githubusercontent.com/geniusJase/NodeTx-v2/main/assets/NodeTx.png)
+![logo]((https://github.com/geniusJase/NodeTx-v2/blob/main/assets/NodeTx.png)?raw=true)
 The Upgrade version of NodeTx Hub
