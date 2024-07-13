@@ -11,3 +11,9 @@ The UI is simple and beautiful with Rayfield library.
 
 
 It shows several levels of performance improvement over the existing NodeTx hub.
+
+## Installation
+
+```lua
+loadstring(game:HttpGet('https://raw.githubusercontent.com/geniusJase/NodeTx-v2/main/main.luau'))();
+```
